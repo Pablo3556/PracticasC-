@@ -1,0 +1,14 @@
+/home/usuario1/C# proyectos/Universidad/bin/Debug/net8.0/Universidad
+/home/usuario1/C# proyectos/Universidad/bin/Debug/net8.0/Universidad.deps.json
+/home/usuario1/C# proyectos/Universidad/bin/Debug/net8.0/Universidad.runtimeconfig.json
+/home/usuario1/C# proyectos/Universidad/bin/Debug/net8.0/Universidad.dll
+/home/usuario1/C# proyectos/Universidad/bin/Debug/net8.0/Universidad.pdb
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.AssemblyInfoInputs.cache
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.AssemblyInfo.cs
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.csproj.CoreCompileInputs.cache
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.dll
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/refint/Universidad.dll
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.pdb
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/Universidad.genruntimeconfig.cache
+/home/usuario1/C# proyectos/Universidad/obj/Debug/net8.0/ref/Universidad.dll
